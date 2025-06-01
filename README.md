@@ -4,6 +4,13 @@
 
 MangroveLEAF delivers data-driven insights to guide conservation efforts, complemented by three analytical tools namely **STEM**, **BRANCH**, and **STALK**—that deepen understanding and address the underlying drivers of mangrove loss.
 
+** Shoreline Trend Estimation and Modeling (STEM)** facilitates historical analysis of shoreline retreat within a selected site, and models future retreat based on Modified Normalized Difference Water Index (MNDWI) and Joint Research Centre datasets. Additionally, this tool automatically computes the mangrove loss area directly caused by the observed shoreline retreat.
+
+**Built-up Regression Analysis of Coastal Habitats (BRANCH)** analyzes the growth of built-up areas along coastal zones and models future development impacts on mangrove ecosystems (loss) within a selected site.
+
+**Survey on Traditional and Local Knowledge (STALK)** analyzes the growth of built-up areas along coastal zones and models future development impacts on mangrove ecosystems (loss) within a selected site.
+
+---
 ---
 
 ## 🔗 Access the Tool via github 
@@ -11,6 +18,8 @@ MangroveLEAF delivers data-driven insights to guide conservation efforts, comple
 
 ## 🔗 Access the Tool directly in Google Earth Engine (Recommended)
 👉 (https://ee-mbrusola.projects.earthengine.app/view/mangroveleaf) 
+
+
 ---
 
 
