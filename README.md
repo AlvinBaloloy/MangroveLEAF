@@ -7,7 +7,7 @@ MangroveLEAF delivers data-driven insights to guide conservation efforts, comple
 ---
 
 ## 🔗 Access the Tool  
-👉 [Launch MangroveLEAF via Github](https://ee-mbrusola.projects.earthengine.app/view/mangroveleaf)
+👉 [Launch MangroveLEAF via Github](https://alvinbaloloy.github.io/MangroveLEAF/)
 
 ## 🔗 Access the Tool directly in Google Earth Engine  
 👉 [Launch MangroveLEAF in GEE](https://ee-mbrusola.projects.earthengine.app/view/mangroveleaf)
@@ -19,8 +19,8 @@ Available online: [https://ee-mbrusola.projects.earthengine.app/view/mangrovelea
 
 ---
 
-## 🌐 Project Website  
-🔗 [https://alvinbaloloy.github.io/MangroveLEAF/](https://alvinbaloloy.github.io/MangroveLEAF/)
+## 🌐 Contact the Author
+🔗 (https://www.linkedin.com/in/alvin-baloloy-15710389/))
 
 ---
 
